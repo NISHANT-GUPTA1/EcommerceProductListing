@@ -1,8 +1,6 @@
 Set Up Instructions
 
 install node -v 
-
-
 git clone <repository-url>
 cd <project-directory>
 npm install
